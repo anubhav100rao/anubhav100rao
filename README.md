@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anubhav100rao
-- 👀 I’m interested in ...full stack web and mobile devlopment, and competitve programming.
-- 🌱 I’m currently learning ... Blockchains
-- 💞️ I’m looking to collaborate on ... any web or mobile devlopment project
+- 👀 I’m interested in ...full stack web and mobile devlopment, and competitve programming
 - 📫 How to reach me ... iec2020103@iiita.ac.in  anubhav100rao@gmail.com
 
 <!---
