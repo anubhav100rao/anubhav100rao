@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anubhav100rao
-- 👀 I’m interested in ...full stack web and mobile devlopment, and competitve programming
+- 👀 I’m interested in software development and problem solving
 - 📫 How to reach me ... iec2020103@iiita.ac.in  anubhav100rao@gmail.com
 
 <!---
