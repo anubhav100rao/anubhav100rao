@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhav100rao
 - 👀 building production ready ?
 - ✅✅✅ [Codeforces](https://codeforces.com/profile/anubhav100rao) [Codechef](https://www.codechef.com/users/anubhav100rao) [Leetcode](https://leetcode.com/anubhav100rao/)
-- [Resume](https://drive.google.com/file/d/1cIA5RApbNHAaOu2HxyCoORVlqWI_OUwP/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1nhTYvt1FnTJ6nMsw7eqvgBLDrxiC7Ydy/view)
 
 <!---
 anubhav100rao/anubhav100rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
